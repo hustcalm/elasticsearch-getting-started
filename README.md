@@ -27,6 +27,8 @@ Blow are instructions for Mac OS X users, people with Linux or Windows may find 
 *   [Java on Mac](rick-hightower.blogspot.com/2013/11/setting-up-new-mac-book-for-java-dev.html)
 *   [Java 7 and Eclipse](http://techblog.41concepts.com/2011/10/05/howto-java-7ea-eclipse-3-7-1-on-mac-os-x/)
 
+Remember to set `JAVA_HOME` for the new JDK, such as:
+
     JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_65.jdk/Contents/Home/ 
 
 #### Git and SSH
@@ -42,6 +44,7 @@ Blow are instructions for Mac OS X users, people with Linux or Windows may find 
 *   [ElasticSearch in 5 minutes](http://www.elasticsearchtutorial.com/elasticsearch-in-5-minutes.html)
 *   [Getting Started With ElasticSearch:Part 1 - Indexing](http://blog.florian-hopf.de/2013/05/getting-started-with-elasticsearch-part.html)
 *   [Getting Started With ElasticSearch:Part 2 - Querying](http://blog.florian-hopf.de/2013/08/getting-started-with-elasticsearch-part.html)
+*   [分布式搜索elasticsearch几个概念解析](http://blog.csdn.net/laigood/article/details/7421173)
 
 #### Lucene
 *   [Lucene Demo](http://lucene.apache.org/core/4_9_0/demo/overview-summary.html#overview_description)
