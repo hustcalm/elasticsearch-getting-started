@@ -7,3 +7,5 @@ $ cd elasticsearch-hello-world-plugin
 $ mvn package
 
 $ $ES_HOME/bin/plugin -url ./target -install hello-world
+
+For the updated plugin versions, see [Maven Plugins](http://maven.apache.org/plugins/).
