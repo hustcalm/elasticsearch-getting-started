@@ -48,6 +48,7 @@ Remember to set `JAVA_HOME` for the new JDK, such as:
 *   [Getting Started With ElasticSearch:Part 2 - Querying](http://blog.florian-hopf.de/2013/08/getting-started-with-elasticsearch-part.html)
 *   [分布式搜索elasticsearch几个概念解析](http://blog.csdn.net/laigood/article/details/7421173)
 *   [elasticsearch中文站](http://www.elasticsearch.cn/)
+*   [ElasticSearch 权威指南](https://www.gitbook.io/book/fuxiaopang/learnelasticsearch)
 
 #### Lucene
 *   [Lucene Demo](http://lucene.apache.org/core/4_9_0/demo/overview-summary.html#overview_description)
@@ -85,3 +86,4 @@ Remember to set `JAVA_HOME` for the new JDK, such as:
 *   [Netty - NIO client server framework](http://netty.io)
 *   [Jest - ElasticSearch Java Rest Client](https://github.com/searchbox-io/Jest)
 *   [Full Text Search Engines vs. DBMS](http://searchhub.org/2009/09/02/full-text-search-engines-vs-dbms/)
+*   [Grunt - The JavaScript Task Runner](http://www.gruntjs.com)
