@@ -42,6 +42,8 @@ Remember to set `JAVA_HOME` for the new JDK, such as:
 *   [ElasticSearch 101 – a getting started tutorial](http://joelabrahamsson.com/elasticsearch-101/)
 *   [Basic ElasticSearch Concepts](http://www.elasticsearchtutorial.com/basic-elasticsearch-concepts.html)
 *   [ElasticSearch in 5 minutes](http://www.elasticsearchtutorial.com/elasticsearch-in-5-minutes.html)
+*   [quick-introduction-to-elasticsearch](https://speakerdeck.com/imotov/quick-introduction-to-elasticsearch)
+*   [elasticsearch-data](https://speakerdeck.com/imotov/elasticsearch-data)
 *   [Getting Started With ElasticSearch:Part 1 - Indexing](http://blog.florian-hopf.de/2013/05/getting-started-with-elasticsearch-part.html)
 *   [Getting Started With ElasticSearch:Part 2 - Querying](http://blog.florian-hopf.de/2013/08/getting-started-with-elasticsearch-part.html)
 *   [分布式搜索elasticsearch几个概念解析](http://blog.csdn.net/laigood/article/details/7421173)
