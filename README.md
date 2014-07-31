@@ -82,4 +82,4 @@ Remember to set `JAVA_HOME` for the new JDK, such as:
 *   [Gradle - Build Automation Evolved](http://www.gradle.org)
 *   [Netty - NIO client server framework](http://netty.io)
 *   [Jest - ElasticSearch Java Rest Client](https://github.com/searchbox-io/Jest)
-*   [Full Text Search Engines vs. DBMS](http://searchhub.org/2009/09/02/full-text-search-engines-vs-dbms/]
+*   [Full Text Search Engines vs. DBMS](http://searchhub.org/2009/09/02/full-text-search-engines-vs-dbms/)
