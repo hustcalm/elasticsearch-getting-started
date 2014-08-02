@@ -49,6 +49,7 @@ Remember to set `JAVA_HOME` for the new JDK, such as:
 *   [分布式搜索elasticsearch几个概念解析](http://blog.csdn.net/laigood/article/details/7421173)
 *   [elasticsearch中文站](http://www.elasticsearch.cn/)
 *   [ElasticSearch 权威指南](https://www.gitbook.io/book/fuxiaopang/learnelasticsearch)
+*   [elasticsearch初探](http://blog.segmentfault.com/lvye/1190000000448816)
 
 #### Lucene
 *   [Lucene Demo](http://lucene.apache.org/core/4_9_0/demo/overview-summary.html#overview_description)
