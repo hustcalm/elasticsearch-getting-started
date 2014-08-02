@@ -50,6 +50,8 @@ Remember to set `JAVA_HOME` for the new JDK, such as:
 *   [elasticsearch中文站](http://www.elasticsearch.cn/)
 *   [ElasticSearch 权威指南](https://www.gitbook.io/book/fuxiaopang/learnelasticsearch)
 *   [elasticsearch初探](http://blog.segmentfault.com/lvye/1190000000448816)
+*   [elasticsearch-getting-started - dzone](http://java.dzone.com/articles/elasticsearch-getting-started)
+*   [ElasticSearch简单入门](http://www.oschina.net/translate/elasticsearch-getting-started)
 
 #### Lucene
 *   [Lucene Demo](http://lucene.apache.org/core/4_9_0/demo/overview-summary.html#overview_description)
@@ -81,6 +83,9 @@ Remember to set `JAVA_HOME` for the new JDK, such as:
 *   [HOW TO WRITE AN ELASTICSEARCH RIVER PLUGIN](http://blog.trifork.com/2013/01/10/how-to-write-an-elasticsearch-river-plugin/)
 *   [brusic/elasticsearch-hello-world-plugin](https://github.com/brusic/elasticsearch-hello-world-plugin/)
 *   [awnuxkjy/es-ik](https://github.com/awnuxkjy/es-ik)
+
+#### ElasticSearch API
+*   [elasticsearch.cn - API](http://www.elasticsearch.cn/guide/reference/api)
 
 ### Others
 *   [Gradle - Build Automation Evolved](http://www.gradle.org)
