@@ -87,6 +87,9 @@ Remember to set `JAVA_HOME` for the new JDK, such as:
 #### ElasticSearch API
 *   [elasticsearch.cn - API](http://www.elasticsearch.cn/guide/reference/api)
 
+#### Plugin Demos
+*   [elasticsearch-plugin-gettting-started from Frank Su](https://github.com/Toilet22/elasticsearch-plugin-getting-started)
+
 ### Others
 *   [Gradle - Build Automation Evolved](http://www.gradle.org)
 *   [Netty - NIO client server framework](http://netty.io)
