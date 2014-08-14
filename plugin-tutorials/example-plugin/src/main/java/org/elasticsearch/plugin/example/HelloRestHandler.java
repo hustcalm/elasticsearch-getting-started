@@ -17,6 +17,6 @@ public class HelloRestHandler implements RestHandler {
     public void handleRequest(final RestRequest request, final RestChannel channel) {
         String who = request.param("who");
         String whoSafe = (who!=null) ? who : "world";
-        channel.sendResponse(new StringRestResponse(OK, "Hello, " + whoSafe + "!"));
+        channel.sendResponse(new BytesRestResponse(OK, "Hello, " + whoSafe + "!"));
     }
 }
