@@ -38,6 +38,7 @@ Remember to set `JAVA_HOME` for the new JDK, such as:
 ### Tutorials
 
 #### ElasticSearch
+*   [getting-started-with-elasticsearch-and-plugin-development](http://hustcalm.me/blog/2014/08/10/getting-started-with-elasticsearch-and-plugin-development/)
 *   [Getting Started With ElasticSearch](http://red-badger.com/blog/2013/11/08/getting-started-with-elasticsearch/)
 *   [ElasticSearch 101 – a getting started tutorial](http://joelabrahamsson.com/elasticsearch-101/)
 *   [Basic ElasticSearch Concepts](http://www.elasticsearchtutorial.com/basic-elasticsearch-concepts.html)
